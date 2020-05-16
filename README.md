@@ -29,15 +29,15 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your team lead.
 
 1. What is the DOM?
-
+    It stands for the Document Object Model, it's able to be used for dynamically updating the content/structure of the doc.
 2. What is an event?
-
+    An event is something that the user interating with the document performs which then can lead to an event listener
 3. What is an event listener?
-
+    Is an action performed after the event has occurered
 4. Why would we convert a NodeList into an Array?
-
+    So that we can use similar functionality that an array may have. Ex: map, forEach, Split, etc
 5. What is a component?
-
+    A single piece of code that can be reused to perform a function that will/may be used on a consistent basis.
 ### Git Set up
 
 * [ ] Fork the project into your GitHub user account
