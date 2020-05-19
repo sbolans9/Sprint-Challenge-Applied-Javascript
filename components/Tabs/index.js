@@ -11,7 +11,7 @@
 let topicsDivDoc = document.querySelector('.topics')
 
 //Use Axios to get address above
-let data = axios.get('https://lambda-times-backend.herokuapp.com/topics')
+axios.get('https://lambda-times-backend.herokuapp.com/topics')
     .then( response => {
         //deal with response
 
